@@ -23,9 +23,13 @@
 
 ---
 
-## 📌 Контакты  
-📧 Email: [your.email@example.com](mailto:email@example.com)  
+## 📄 Моё резюме  
+📜 [Открыть резюме](https://iylia1ovch.github.io/)  
 
+---
+
+## 📌 Контакты  
+📧 Email: [vip.yulya.ovchinnikova.96@gmail.com](mailto:vip.yulya.ovchinnikova.96@gmail.com)  
 ---
 
 ✨ _"Сложные задачи — это вызов, а не проблема!"_  
