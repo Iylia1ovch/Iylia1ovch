@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💻 Привет, я Юлия Овчинникова!  
 
-<!--
-**Iylia1ovch/Iylia1ovch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Студентка 3 курса УГНТУ  
+**Специальность:** Цифровые технологии и защита информации  
+**Предыдущее образование:** Программирование компьютерных систем  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Обо мне  
+👩‍💻 Увлекаюсь разработкой ПО, кибербезопасностью и базами данных.  
+📚 Постоянно учусь новому и развиваюсь в сфере информационных технологий.  
+🔍 Интересуюсь защитой информации и анализом уязвимостей.  
+🎯 Люблю решать сложные задачи и автоматизировать процессы.  
+
+---
+
+## 🛠️ Навыки  
+- 🖥️ **Языки программирования:** Python, C++  
+- 🔐 **Кибербезопасность:** Основы защиты информации, безопасное кодирование  
+- 💾 **Базы данных:** SQL, PostgreSQL  
+- 🌐 **Веб-разработка:** HTML, CSS, JavaScript  
+- 🔧 **Инструменты:** Git, VS Code, Linux  
+
+---
+
+## 📌 Контакты  
+📧 Email: [your.email@example.com](mailto:email@example.com)  
+
+---
+
+✨ _"Сложные задачи — это вызов, а не проблема!"_  
